@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^29.4.0"
+  },
+  "name": "tests",
+  "description": "",
+  "version": "1.0.0",
+  "main": "stringLength.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmatama/tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmatama/tests/issues"
+  },
+  "homepage": "https://github.com/danielmatama/tests#readme"
+}
